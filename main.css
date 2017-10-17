@@ -27,3 +27,12 @@ li{
   border: 1px solid black;
   width: 200px;
 }
+/* dando estilo al icono*/
+i{
+  color: red;
+ font-size: 100px ;
+ position: absolute;
+ right: 350px
+
+
+}
